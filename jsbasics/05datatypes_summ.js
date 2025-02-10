@@ -22,3 +22,9 @@ let myobj= {
 const myfun=function(){
     console.log("hello world")
 }
+
+
+==============================================================================================================
+
+// stack mem (primitive)=>copy of variable  , heap mem(non primitive)=> refernce of original value
+
