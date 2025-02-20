@@ -14,7 +14,7 @@ console.log(typeof b)
  console.log(typeof bnumber)   //number
  console.log(bnumber)   //NaN =>not a number=> type- Number
  
-
+//conversion in number
  //null=> 0
  //undefined=>NaN
  //true=>1
